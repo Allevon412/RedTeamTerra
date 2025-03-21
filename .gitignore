@@ -10,6 +10,7 @@
 
 # AWS User-specific
 .idea/**/aws.xml
+.idea/**/profiles_settings.xml
 
 # Generated files
 .idea/**/contentModel.xml
